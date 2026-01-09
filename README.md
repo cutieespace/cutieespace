@@ -8,8 +8,7 @@
 
  <p align="center"> 
 
-##### [prns.cc](https://pronouns.cc/@sanctification)
-#####   i ‎⠀am ‎⠀in ‎⠀this ‎⠀place ‎⠀where ‎⠀i ‎⠀have ‎⠀*nothing*.
+##### [prns.cc](https://pronouns.cc/@hargrove)
 
 
 
