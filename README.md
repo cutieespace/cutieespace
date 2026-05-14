@@ -8,7 +8,7 @@
 
  <p align="center"> 
 
-##### [prns.cc](https://pronouns.cc/@vsysl)
+##### [rentry](https://rentry.co/vsysl)
 
 
 
