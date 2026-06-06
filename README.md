@@ -1,10 +1,8 @@
         
 <div align="center"> 
         
-$${\color{#5FAB85}✦}$$
+$${\color{#DFE5E5}✦}$$
 
+<div align="right"> 
 
-<div align="center"> 
-
-![](assets/images/https://files.catbox.moe/pgzayb.png)
-
+<img src="https://files.catbox.moe/8glh26.png" width="550" />
